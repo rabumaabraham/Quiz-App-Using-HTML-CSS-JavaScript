@@ -2,8 +2,8 @@ const questions = [
     {
         question: "What is the capital city of Switzerland?",
         answers: [
-            {text: "Bern", correct: false},
-            {text: "Zurich", correct: true},
+            {text: "Zurich", correct: false},
+            {text: "Bern", correct: true},
             {text: "Geneva", correct: false},
             {text: "Basel", correct: false},
         ]
