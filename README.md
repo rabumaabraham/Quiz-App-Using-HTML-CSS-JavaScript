@@ -40,7 +40,7 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 2. **Navigate into the project directory**:
 
     ```bash
-    cd capital-cities-quiz
+    cd Quiz App
     ```
 
 3. **Open the project**:
