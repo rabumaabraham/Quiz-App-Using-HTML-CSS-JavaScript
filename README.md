@@ -22,7 +22,7 @@ A simple quiz application where users can test their knowledge of the capital ci
 
 ## Demo
 
-You can check the live demo of the project [here](https://rabumaabraham.github.io/Quiz-App-Using-HTML-CSS-JavaScript/) 
+You can check the live demo of the project [here](https://rabumaabraham.github.io/Quiz-App/) 
 ## Technologies Used
 
 - HTML
