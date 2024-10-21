@@ -34,7 +34,7 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/rabumaabraham/Quiz-App-Using-HTML-CSS-JavaScript.git
+    git clone https://github.com/rabumaabraham/Quiz-App
     ```
 
 2. **Navigate into the project directory**:
